@@ -1,0 +1,74 @@
+body {
+    background-color: #14166f;
+    color: floralwhite;
+    text-align: center;
+}
+.gridcontainer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-bottom: 20px;
+}
+.boarder {
+    display: flex;
+    align-items: center;
+    background-color: #beee11;
+    border: 5px solid #000000;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+.photo {
+    background-color: #0bdff7;
+    border: 5px solid #000000;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+.message {
+    background-color: #beee11;
+    border: 5px solid #000000;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+.LIAM {
+    font-size: 36px;
+    text-align: center;
+    color: floralwhite;
+    margin-bottom: 20px;
+    text-decoration: underline;
+    text-shadow: 10px 10px 10px rgba(231, 12, 198, 0.8);
+}
+.portfolio {
+    font-size: 24px;
+    text-align: center;
+    color: floralwhite;
+    margin-bottom: 20px;
+}
+.bottom {
+    background-color: #beee11;
+    border: 5px solid #000000;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+.profile{
+    font-size: 20;
+    text-align: left;
+    color: khaki;
+}
+.bor1{
+    display: flex;
+    align-items: center;
+    background-color: #beee11;
+    border: 5px solid #000000;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+.About{
+    font-size: 50px;
+    text-align: center;
+    color: khaki;
+}
